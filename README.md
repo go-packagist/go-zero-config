@@ -28,11 +28,6 @@ import (
     "testing"
 )
 
-type Config struct {
-    Name string `json:"name"`
-    Age  int    `json:"age"`
-}
-
 func main() {
     app := foundation.NewApplication()
 
