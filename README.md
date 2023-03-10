@@ -36,3 +36,7 @@ func main() {
     assert.Equal(t, "test.config", app.MustMake("zero.config").(*go_zero_config.Config).Name)
 }
 ```
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
