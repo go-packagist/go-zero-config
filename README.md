@@ -8,7 +8,7 @@
 
 ## Introduction
 
-go-zero-config is a configuration package for go-zero and [go-packagist framework](https://github.com/go-packagist/go-zero-config).
+**go-zero-config** is a configuration package for go-zero and [go-packagist framework](https://github.com/go-packagist/go-zero-config).
 
 ## Installation
 
